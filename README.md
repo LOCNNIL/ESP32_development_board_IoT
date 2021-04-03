@@ -1,6 +1,5 @@
 # ESP32_development__board_IoT
 In this repository, I'm creating a development board based in ESP32 chip to work with IoT projects and other embedded systems projects in general using the [Kicad](https://kicad.org/) software.
-<<<<<<< HEAD
 
 ## Features General Description (planned)
 
@@ -21,7 +20,4 @@ OBS: All that features above are planned to be implemented soon!
 This project is licensed under the [GNU General Public License](https://opensource.org/licenses/GPL-3.0).
 
 
-
-
 =======
->>>>>>> 2acca3aafd585732c56c8bde93e341771bb1745a
