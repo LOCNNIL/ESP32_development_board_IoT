@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP32-WROOM-32D)(type Legacy)(uri ${KIPRJMOD}/Libraries/Libraries/ESP32-WROOM-32D.lib)(options "")(descr ""))
+  (lib (name PJ-002A)(type Legacy)(uri "${KIPRJMOD}/Libraries/PJ002A (JACK)/PJ-002A.lib")(options "")(descr ""))
+)
