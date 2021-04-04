@@ -1,0 +1,17 @@
+74HC595
+https://www.acheicomponentes.com.br/ci-74hc595d-smd
+
+AMS1117 3.3v
+https://produto.mercadolivre.com.br/MLB-1735326517-10x-regulador-tenso-ams1117-33v-ams1117-33-lm1117-arduino-_JM#position=3&type=item&tracking_id=0b9f2ed2-cdca-4213-bb78-d2827d982bf2
+
+AMS1117 5v 
+OKAY
+
+ESP32-WROOM-32D
+OKAY
+
+CP2102N-A01-CQFN28
+OKAY
+
+
+

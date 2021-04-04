@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP S9013
+D NPN transistor / Ic (max) 500mA / Vcb (max) 40V / Vce (max) 25V / Veb(max) 5V / Tj (max) 150ºC
+K transistor NPN
+F https://www.openimpulse.com/blog/wp-content/uploads/wpsc/downloadables/S9013-NPN-Transistor-SOT-23-Datasheet.pdf
+$ENDCMP
+#
+$CMP SS8050
+D NPN transistor / Ic (max) 500mA / Vcb (max) 40V / Vce (max) 25V / Veb(max) 5V / Tj (max) 150ºC
+K transistor NPN
+F https://datasheet.lcsc.com/szlcsc/Changjiang-Electronics-Tech-CJ-SS8050_C177739.pdf
+$ENDCMP
+#
+#End Doc Library

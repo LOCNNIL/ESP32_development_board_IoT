@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date "2021-03-19"
 Rev "V.0.1"
@@ -14,11 +14,11 @@ Comment3 ""
 Comment4 "Author: Lincoln Wallace"
 $EndDescr
 $Sheet
-S 5000 2500 1750 1500
+S 7325 2000 1750 1500
 U 60697214
 F0 "ESP32 Uc circuit" 50
 F1 "microcontroller_circuit.sch" 50
-F2 "EN_uc" I L 5000 2725 50 
+F2 "DTR" B L 7325 2175 50 
 $EndSheet
 $Comp
 L Regulator_Linear:AMS1117-3.3 U?
@@ -354,4 +354,10 @@ F 3 "" H 1150 1075 50  0001 C CNN
 	1    1150 1075
 	1    0    0    -1  
 $EndComp
+$Sheet
+S 5425 2000 1750 1500
+U 606DC0A1
+F0 "USB-Serial Converter" 50
+F1 "usb_serial_converter.sch" 50
+$EndSheet
 $EndSCHEMATC
